@@ -2,3 +2,14 @@ body { margin: 0; background: #f4f4f4; }
 .article { max-width: 760px; margin: 0 auto; padding: 72px 24px; }
 .article h1 { margin-top: 0; }
 .important { font-weight: 700; }
+body {
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: 700; 
+}
+
+p, li {
+  font-weight: 400; 
+} 
